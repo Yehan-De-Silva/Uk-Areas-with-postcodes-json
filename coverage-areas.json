@@ -1,0 +1,1560 @@
+{
+  "coverage_areas": [
+    {
+      "area": "Anderston",
+      "city": "Glasgow",
+      "postcode": "G3"
+    },
+    {
+      "area": "Anniesland",
+      "city": "Glasgow", 
+      "postcode": "G13"
+    },
+    {
+      "area": "Auchenshuggle",
+      "city": "Glasgow",
+      "postcode": "G32"
+    },
+    {
+      "area": "Baillieston",
+      "city": "Glasgow",
+      "postcode": "G69"
+    },
+    {
+      "area": "Balornock",
+      "city": "Glasgow",
+      "postcode": "G21"
+    },
+    {
+      "area": "Barmulloch",
+      "city": "Glasgow",
+      "postcode": "G21"
+    },
+    {
+      "area": "Barrachnie",
+      "city": "Glasgow",
+      "postcode": "G69"
+    },
+    {
+      "area": "Barrowfield",
+      "city": "Glasgow",
+      "postcode": "G40"
+    },
+    {
+      "area": "Battlefield",
+      "city": "Glasgow",
+      "postcode": "G42"
+    },
+    {
+      "area": "Bellahouston",
+      "city": "Glasgow",
+      "postcode": "G52"
+    },
+    {
+      "area": "Braidfauld",
+      "city": "Glasgow",
+      "postcode": "G32"
+    },
+    {
+      "area": "Bridgeton",
+      "city": "Glasgow",
+      "postcode": "G40"
+    },
+    {
+      "area": "Broomhill",
+      "city": "Glasgow",
+      "postcode": "G11"
+    },
+    {
+      "area": "Calton",
+      "city": "Glasgow",
+      "postcode": "G4"
+    },
+    {
+      "area": "Cardonald",
+      "city": "Glasgow",
+      "postcode": "G52"
+    },
+    {
+      "area": "Carntyne",
+      "city": "Glasgow",
+      "postcode": "G33"
+    },
+    {
+      "area": "Carnwadric",
+      "city": "Glasgow",
+      "postcode": "G43"
+    },
+    {
+      "area": "Castlemilk",
+      "city": "Glasgow",
+      "postcode": "G45"
+    },
+    {
+      "area": "Cathcart",
+      "city": "Glasgow",
+      "postcode": "G44"
+    },
+    {
+      "area": "Cessnock",
+      "city": "Glasgow",
+      "postcode": "G51"
+    },
+    {
+      "area": "Charing Cross",
+      "city": "Glasgow",
+      "postcode": "G3"
+    },
+    {
+      "area": "Cowcaddens",
+      "city": "Glasgow",
+      "postcode": "G4"
+    },
+    {
+      "area": "Craigend",
+      "city": "Glasgow",
+      "postcode": "G33"
+    },
+    {
+      "area": "Craigton",
+      "city": "Glasgow",
+      "postcode": "G52"
+    },
+    {
+      "area": "Cranhill",
+      "city": "Glasgow",
+      "postcode": "G33"
+    },
+    {
+      "area": "Croftfoot",
+      "city": "Glasgow",
+      "postcode": "G44"
+    },
+    {
+      "area": "Crookston",
+      "city": "Glasgow",
+      "postcode": "G53"
+    },
+    {
+      "area": "Crosshill",
+      "city": "Glasgow",
+      "postcode": "G42"
+    },
+    {
+      "area": "Crossmyloof",
+      "city": "Glasgow",
+      "postcode": "G41"
+    },
+    {
+      "area": "Dalmarnock",
+      "city": "Glasgow",
+      "postcode": "G40"
+    },
+    {
+      "area": "Dennistoun",
+      "city": "Glasgow",
+      "postcode": "G31"
+    },
+    {
+      "area": "Dowanhill",
+      "city": "Glasgow",
+      "postcode": "G12"
+    },
+    {
+      "area": "Drumchapel",
+      "city": "Glasgow",
+      "postcode": "G15"
+    },
+    {
+      "area": "Drumoyne",
+      "city": "Glasgow",
+      "postcode": "G51"
+    },
+    {
+      "area": "Dumbreck",
+      "city": "Glasgow",
+      "postcode": "G41"
+    },
+    {
+      "area": "Easterhouse",
+      "city": "Glasgow",
+      "postcode": "G34"
+    },
+    {
+      "area": "Eastwood",
+      "city": "Glasgow",
+      "postcode": "G43"
+    },
+    {
+      "area": "Finnieston",
+      "city": "Glasgow",
+      "postcode": "G3"
+    },
+    {
+      "area": "Garnethill",
+      "city": "Glasgow",
+      "postcode": "G3"
+    },
+    {
+      "area": "Garrowhill",
+      "city": "Glasgow",
+      "postcode": "G69"
+    },
+    {
+      "area": "Garthamlock",
+      "city": "Glasgow",
+      "postcode": "G33"
+    },
+    {
+      "area": "Gartloch",
+      "city": "Glasgow",
+      "postcode": "G69"
+    },
+    {
+      "area": "Germiston",
+      "city": "Glasgow",
+      "postcode": "G21"
+    },
+    {
+      "area": "Gorbals",
+      "city": "Glasgow",
+      "postcode": "G5"
+    },
+    {
+      "area": "Govan",
+      "city": "Glasgow",
+      "postcode": "G51"
+    },
+    {
+      "area": "Govanhill",
+      "city": "Glasgow",
+      "postcode": "G42"
+    },
+    {
+      "area": "Greenfield",
+      "city": "Glasgow",
+      "postcode": "G32"
+    },
+    {
+      "area": "Haghill",
+      "city": "Glasgow",
+      "postcode": "G31"
+    },
+    {
+      "area": "High Ruchill",
+      "city": "Glasgow",
+      "postcode": "G20"
+    },
+    {
+      "area": "Hillhead",
+      "city": "Glasgow",
+      "postcode": "G12"
+    },
+    {
+      "area": "Hillington",
+      "city": "Glasgow",
+      "postcode": "G52"
+    },
+    {
+      "area": "Hurlet",
+      "city": "Glasgow",
+      "postcode": "G53"
+    },
+    {
+      "area": "Hutchesontown",
+      "city": "Glasgow",
+      "postcode": "G5"
+    },
+    {
+      "area": "Hyndland",
+      "city": "Glasgow",
+      "postcode": "G12"
+    },
+    {
+      "area": "Ibrox",
+      "city": "Glasgow",
+      "postcode": "G51"
+    },
+    {
+      "area": "Jordanhill",
+      "city": "Glasgow",
+      "postcode": "G13"
+    },
+    {
+      "area": "Kelvindale",
+      "city": "Glasgow",
+      "postcode": "G20"
+    },
+    {
+      "area": "Kelvinside",
+      "city": "Glasgow",
+      "postcode": "G20"
+    },
+    {
+      "area": "Kennishead",
+      "city": "Glasgow",
+      "postcode": "G46"
+    },
+    {
+      "area": "King's Park",
+      "city": "Glasgow",
+      "postcode": "G44"
+    },
+    {
+      "area": "Kinning Park",
+      "city": "Glasgow",
+      "postcode": "G51"
+    },
+    {
+      "area": "Knightswood",
+      "city": "Glasgow",
+      "postcode": "G13"
+    },
+    {
+      "area": "Lambhill",
+      "city": "Glasgow",
+      "postcode": "G22"
+    },
+    {
+      "area": "Langside",
+      "city": "Glasgow",
+      "postcode": "G42"
+    },
+    {
+      "area": "Laurieston",
+      "city": "Glasgow",
+      "postcode": "G5"
+    },
+    {
+      "area": "Lightburn",
+      "city": "Glasgow",
+      "postcode": "G32"
+    },
+    {
+      "area": "Lilybank",
+      "city": "Glasgow",
+      "postcode": "G12"
+    },
+    {
+      "area": "Linthouse",
+      "city": "Glasgow",
+      "postcode": "G51"
+    },
+    {
+      "area": "Mansewood",
+      "city": "Glasgow",
+      "postcode": "G43"
+    },
+    {
+      "area": "Maryhill",
+      "city": "Glasgow",
+      "postcode": "G20"
+    },
+    {
+      "area": "Merchant City",
+      "city": "Glasgow",
+      "postcode": "G1"
+    },
+    {
+      "area": "Mosspark",
+      "city": "Glasgow",
+      "postcode": "G52"
+    },
+    {
+      "area": "Mount Florida",
+      "city": "Glasgow",
+      "postcode": "G42"
+    },
+    {
+      "area": "Mount Vernon",
+      "city": "Glasgow",
+      "postcode": "G32"
+    },
+    {
+      "area": "Muirend",
+      "city": "Glasgow",
+      "postcode": "G44"
+    },
+    {
+      "area": "Newlands",
+      "city": "Glasgow",
+      "postcode": "G43"
+    },
+    {
+      "area": "Nitshill",
+      "city": "Glasgow",
+      "postcode": "G53"
+    },
+    {
+      "area": "North Kelvinside",
+      "city": "Glasgow",
+      "postcode": "G20"
+    },
+    {
+      "area": "Oatlands",
+      "city": "Glasgow",
+      "postcode": "G5"
+    },
+    {
+      "area": "Old Balornock",
+      "city": "Glasgow",
+      "postcode": "G21"
+    },
+    {
+      "area": "Park District",
+      "city": "Glasgow",
+      "postcode": "G3"
+    },
+    {
+      "area": "Parkhead",
+      "city": "Glasgow",
+      "postcode": "G31"
+    },
+    {
+      "area": "Partick",
+      "city": "Glasgow",
+      "postcode": "G11"
+    },
+    {
+      "area": "Partickhill",
+      "city": "Glasgow",
+      "postcode": "G11"
+    },
+    {
+      "area": "Pollok",
+      "city": "Glasgow",
+      "postcode": "G53"
+    },
+    {
+      "area": "Pollokshaws",
+      "city": "Glasgow",
+      "postcode": "G43"
+    },
+    {
+      "area": "Pollokshields",
+      "city": "Glasgow",
+      "postcode": "G41"
+    },
+    {
+      "area": "Polmadie",
+      "city": "Glasgow",
+      "postcode": "G42"
+    },
+    {
+      "area": "Port Dundas",
+      "city": "Glasgow",
+      "postcode": "G2"
+    },
+    {
+      "area": "Possilpark",
+      "city": "Glasgow",
+      "postcode": "G22"
+    },
+    {
+      "area": "Priesthill",
+      "city": "Glasgow",
+      "postcode": "G53"
+    },
+    {
+      "area": "Provanhall",
+      "city": "Glasgow",
+      "postcode": "G33"
+    },
+    {
+      "area": "Provanmill",
+      "city": "Glasgow",
+      "postcode": "G33"
+    },
+    {
+      "area": "Queenslie",
+      "city": "Glasgow",
+      "postcode": "G33"
+    },
+    {
+      "area": "Riddrie",
+      "city": "Glasgow",
+      "postcode": "G33"
+    },
+    {
+      "area": "Robroyston",
+      "city": "Glasgow",
+      "postcode": "G33"
+    },
+    {
+      "area": "Royston",
+      "city": "Glasgow",
+      "postcode": "G21"
+    },
+    {
+      "area": "Ruchazie",
+      "city": "Glasgow",
+      "postcode": "G33"
+    },
+    {
+      "area": "Ruchill",
+      "city": "Glasgow",
+      "postcode": "G20"
+    },
+    {
+      "area": "Sandyhills",
+      "city": "Glasgow",
+      "postcode": "G32"
+    },
+    {
+      "area": "Scotstoun",
+      "city": "Glasgow",
+      "postcode": "G14"
+    },
+    {
+      "area": "Shettleston",
+      "city": "Glasgow",
+      "postcode": "G32"
+    },
+    {
+      "area": "Sighthill",
+      "city": "Glasgow",
+      "postcode": "G21"
+    },
+    {
+      "area": "Simshill",
+      "city": "Glasgow",
+      "postcode": "G44"
+    },
+    {
+      "area": "South Nitshill",
+      "city": "Glasgow",
+      "postcode": "G53"
+    },
+    {
+      "area": "Springboig",
+      "city": "Glasgow",
+      "postcode": "G32"
+    },
+    {
+      "area": "Springburn",
+      "city": "Glasgow",
+      "postcode": "G21"
+    },
+    {
+      "area": "Springhill",
+      "city": "Glasgow",
+      "postcode": "G69"
+    },
+    {
+      "area": "Stobhill",
+      "city": "Glasgow",
+      "postcode": "G21"
+    },
+    {
+      "area": "Summerston",
+      "city": "Glasgow",
+      "postcode": "G23"
+    },
+    {
+      "area": "Swinton",
+      "city": "Glasgow",
+      "postcode": "G69"
+    },
+    {
+      "area": "Temple",
+      "city": "Glasgow",
+      "postcode": "G13"
+    },
+    {
+      "area": "Thornwood",
+      "city": "Glasgow",
+      "postcode": "G11"
+    },
+    {
+      "area": "Tollcross",
+      "city": "Glasgow",
+      "postcode": "G32"
+    },
+    {
+      "area": "Toryglen",
+      "city": "Glasgow",
+      "postcode": "G5"
+    },
+    {
+      "area": "Townhead",
+      "city": "Glasgow",
+      "postcode": "G4"
+    },
+    {
+      "area": "Tradeston",
+      "city": "Glasgow",
+      "postcode": "G5"
+    },
+    {
+      "area": "Whiteinch",
+      "city": "Glasgow",
+      "postcode": "G14"
+    },
+    {
+      "area": "Woodlands",
+      "city": "Glasgow",
+      "postcode": "G3"
+    },
+    {
+      "area": "Woodside",
+      "city": "Glasgow",
+      "postcode": "G20"
+    },
+    {
+      "area": "Yoker",
+      "city": "Glasgow",
+      "postcode": "G14"
+    },
+    {
+      "area": "Yorkhill",
+      "city": "Glasgow",
+      "postcode": "G3"
+    },
+    {
+      "area": "Old Town",
+      "city": "Edinburgh",
+      "postcode": "EH1"
+    },
+    {
+      "area": "New Town",
+      "city": "Edinburgh",
+      "postcode": "EH2"
+    },
+    {
+      "area": "Leith",
+      "city": "Edinburgh",
+      "postcode": "EH6"
+    },
+    {
+      "area": "Stockbridge",
+      "city": "Edinburgh",
+      "postcode": "EH3"
+    },
+    {
+      "area": "Morningside",
+      "city": "Edinburgh",
+      "postcode": "EH10"
+    },
+    {
+      "area": "Marchmont",
+      "city": "Edinburgh",
+      "postcode": "EH9"
+    },
+    {
+      "area": "Bruntsfield",
+      "city": "Edinburgh",
+      "postcode": "EH10"
+    },
+    {
+      "area": "Portobello",
+      "city": "Edinburgh",
+      "postcode": "EH15"
+    },
+    {
+      "area": "The Grange",
+      "city": "Edinburgh",
+      "postcode": "EH9"
+    },
+    {
+      "area": "Haymarket",
+      "city": "Edinburgh",
+      "postcode": "EH3"
+    },
+    {
+      "area": "Corstorphine",
+      "city": "Edinburgh",
+      "postcode": "EH12"
+    },
+    {
+      "area": "Gorgie",
+      "city": "Edinburgh",
+      "postcode": "EH11"
+    },
+    {
+      "area": "Dalry",
+      "city": "Edinburgh",
+      "postcode": "EH11"
+    },
+    {
+      "area": "Sighthill",
+      "city": "Edinburgh",
+      "postcode": "EH11"
+    },
+    {
+      "area": "Craiglockhart",
+      "city": "Edinburgh",
+      "postcode": "EH14"
+    },
+    {
+      "area": "Southside",
+      "city": "Edinburgh",
+      "postcode": "EH8"
+    },
+    {
+      "area": "Duddingston",
+      "city": "Edinburgh",
+      "postcode": "EH15"
+    },
+    {
+      "area": "Cramond",
+      "city": "Edinburgh",
+      "postcode": "EH4"
+    },
+    {
+      "area": "Liberton",
+      "city": "Edinburgh",
+      "postcode": "EH16"
+    },
+    {
+      "area": "Trinity",
+      "city": "Edinburgh",
+      "postcode": "EH5"
+    },
+    {
+      "area": "Meadowbank",
+      "city": "Edinburgh",
+      "postcode": "EH8"
+    },
+    {
+      "area": "The Meadows",
+      "city": "Edinburgh",
+      "postcode": "EH9"
+    },
+    {
+      "area": "Broughton",
+      "city": "Edinburgh",
+      "postcode": "EH1"
+    },
+    {
+      "area": "Tollcross",
+      "city": "Edinburgh",
+      "postcode": "EH3"
+    },
+    {
+      "area": "Canonmills",
+      "city": "Edinburgh",
+      "postcode": "EH3"
+    },
+    {
+      "area": "Murrayfield",
+      "city": "Edinburgh",
+      "postcode": "EH12"
+    },
+    {
+      "area": "Ravelston",
+      "city": "Edinburgh",
+      "postcode": "EH4"
+    },
+    {
+      "area": "West End",
+      "city": "Edinburgh",
+      "postcode": "EH2"
+    },
+    {
+      "area": "Inverleith",
+      "city": "Edinburgh",
+      "postcode": "EH3"
+    },
+    {
+      "area": "Dean Village",
+      "city": "Edinburgh",
+      "postcode": "EH4"
+    },
+    {
+      "area": "Merchiston",
+      "city": "Edinburgh",
+      "postcode": "EH10"
+    },
+    {
+      "area": "Silverknowes",
+      "city": "Edinburgh",
+      "postcode": "EH4"
+    },
+    {
+      "area": "Colinton",
+      "city": "Edinburgh",
+      "postcode": "EH13"
+    },
+    {
+      "area": "Balerno",
+      "city": "Edinburgh",
+      "postcode": "EH14"
+    },
+    {
+      "area": "Drylaw",
+      "city": "Edinburgh",
+      "postcode": "EH4"
+    },
+    {
+      "area": "Pilton",
+      "city": "Edinburgh",
+      "postcode": "EH5"
+    },
+    {
+      "area": "Granton",
+      "city": "Edinburgh",
+      "postcode": "EH5"
+    },
+    {
+      "area": "Greenbank",
+      "city": "Edinburgh",
+      "postcode": "EH10"
+    },
+    {
+      "area": "Blackford",
+      "city": "Edinburgh",
+      "postcode": "EH9"
+    },
+    {
+      "area": "Currie",
+      "city": "Edinburgh",
+      "postcode": "EH14"
+    },
+    {
+      "area": "Newington",
+      "city": "Edinburgh",
+      "postcode": "EH9"
+    },
+    {
+      "area": "Sciennes",
+      "city": "Edinburgh",
+      "postcode": "EH9"
+    },
+    {
+      "area": "Restalrig",
+      "city": "Edinburgh",
+      "postcode": "EH6"
+    },
+    {
+      "area": "Joppa",
+      "city": "Edinburgh",
+      "postcode": "EH15"
+    },
+    {
+      "area": "Prestonfield",
+      "city": "Edinburgh",
+      "postcode": "EH16"
+    },
+    {
+      "area": "Craigentinny",
+      "city": "Edinburgh",
+      "postcode": "EH7"
+    },
+    {
+      "area": "Firrhill",
+      "city": "Edinburgh",
+      "postcode": "EH13"
+    },
+    {
+      "area": "Oxgangs",
+      "city": "Edinburgh",
+      "postcode": "EH13"
+    },
+    {
+      "area": "City Centre",
+      "city": "Edinburgh",
+      "postcode": "EH1"
+    },
+    {
+      "area": "Altens",
+      "city": "Aberdeen",
+      "postcode": "AB12"
+    },
+    {
+      "area": "Ashgrove",
+      "city": "Aberdeen",
+      "postcode": "AB16"
+    },
+    {
+      "area": "Berryden",
+      "city": "Aberdeen",
+      "postcode": "AB25"
+    },
+    {
+      "area": "Bieldside",
+      "city": "Aberdeen",
+      "postcode": "AB15"
+    },
+    {
+      "area": "Braeside",
+      "city": "Aberdeen",
+      "postcode": "AB15"
+    },
+    {
+      "area": "Bridge of Don",
+      "city": "Aberdeen",
+      "postcode": "AB23"
+    },
+    {
+      "area": "Bucksburn",
+      "city": "Aberdeen",
+      "postcode": "AB21"
+    },
+    {
+      "area": "Cornhill",
+      "city": "Aberdeen",
+      "postcode": "AB16"
+    },
+    {
+      "area": "Cove Bay",
+      "city": "Aberdeen",
+      "postcode": "AB12"
+    },
+    {
+      "area": "Cults",
+      "city": "Aberdeen",
+      "postcode": "AB15"
+    },
+    {
+      "area": "Cummings Park",
+      "city": "Aberdeen",
+      "postcode": "AB16"
+    },
+    {
+      "area": "Danestone",
+      "city": "Aberdeen",
+      "postcode": "AB22"
+    },
+    {
+      "area": "Dyce",
+      "city": "Aberdeen",
+      "postcode": "AB21"
+    },
+    {
+      "area": "Ferryhill",
+      "city": "Aberdeen",
+      "postcode": "AB11"
+    },
+    {
+      "area": "Footdee (Fittie)",
+      "city": "Aberdeen",
+      "postcode": "AB11"
+    },
+    {
+      "area": "Foresterhill",
+      "city": "Aberdeen",
+      "postcode": "AB25"
+    },
+    {
+      "area": "Froghall",
+      "city": "Aberdeen",
+      "postcode": "AB24"
+    },
+    {
+      "area": "Garthdee",
+      "city": "Aberdeen",
+      "postcode": "AB10"
+    },
+    {
+      "area": "Hanover",
+      "city": "Aberdeen",
+      "postcode": "AB11"
+    },
+    {
+      "area": "Hazlehead",
+      "city": "Aberdeen",
+      "postcode": "AB15"
+    },
+    {
+      "area": "Hilton",
+      "city": "Aberdeen",
+      "postcode": "AB24"
+    },
+    {
+      "area": "Kaimhill",
+      "city": "Aberdeen",
+      "postcode": "AB10"
+    },
+    {
+      "area": "Kincorth",
+      "city": "Aberdeen",
+      "postcode": "AB12"
+    },
+    {
+      "area": "Kingswells",
+      "city": "Aberdeen",
+      "postcode": "AB15"
+    },
+    {
+      "area": "Kittybrewster",
+      "city": "Aberdeen",
+      "postcode": "AB25"
+    },
+    {
+      "area": "Mannofield",
+      "city": "Aberdeen",
+      "postcode": "AB15"
+    },
+    {
+      "area": "Mastrick",
+      "city": "Aberdeen",
+      "postcode": "AB16"
+    },
+    {
+      "area": "Middlefield",
+      "city": "Aberdeen",
+      "postcode": "AB16"
+    },
+    {
+      "area": "Milltimber",
+      "city": "Aberdeen",
+      "postcode": "AB13"
+    },
+    {
+      "area": "Nigg",
+      "city": "Aberdeen",
+      "postcode": "AB12"
+    },
+    {
+      "area": "Northfield",
+      "city": "Aberdeen",
+      "postcode": "AB16"
+    },
+    {
+      "area": "Old Aberdeen",
+      "city": "Aberdeen",
+      "postcode": "AB24"
+    },
+    {
+      "area": "Peterculter",
+      "city": "Aberdeen",
+      "postcode": "AB14"
+    },
+    {
+      "area": "Pittodrie",
+      "city": "Aberdeen",
+      "postcode": "AB24"
+    },
+    {
+      "area": "Queen's Cross",
+      "city": "Aberdeen",
+      "postcode": "AB15"
+    },
+    {
+      "area": "Rosemount",
+      "city": "Aberdeen",
+      "postcode": "AB25"
+    },
+    {
+      "area": "Rubislaw",
+      "city": "Aberdeen",
+      "postcode": "AB15"
+    },
+    {
+      "area": "Ruthrieston",
+      "city": "Aberdeen",
+      "postcode": "AB10"
+    },
+    {
+      "area": "Seaton",
+      "city": "Aberdeen",
+      "postcode": "AB24"
+    },
+    {
+      "area": "Ayr",
+      "city": "Ayr",
+      "postcode": "KA7"
+    },
+    {
+      "area": "Greenock",
+      "city": "Greenock",
+      "postcode": "PA15"
+    },
+    {
+      "area": "Coatbridge",
+      "city": "Coatbridge",
+      "postcode": "ML5"
+    },
+    {
+      "area": "Glenrothes",
+      "city": "Glenrothes",
+      "postcode": "KY6"
+    },
+    {
+      "area": "Airdrie",
+      "city": "Airdrie",
+      "postcode": "ML6"
+    },
+    {
+      "area": "Stirling",
+      "city": "Stirling",
+      "postcode": "FK7"
+    },
+    {
+      "area": "Kilmarnock",
+      "city": "Kilmarnock",
+      "postcode": "KA1"
+    },
+    {
+      "area": "Falkirk",
+      "city": "Falkirk",
+      "postcode": "FK1"
+    },
+    {
+      "area": "Motherwell",
+      "city": "Motherwell",
+      "postcode": "ML1"
+    },
+    {
+      "area": "Perth",
+      "city": "Perth",
+      "postcode": "PH1"
+    },
+    {
+      "area": "Rutherglen",
+      "city": "Rutherglen",
+      "postcode": "G73"
+    },
+    {
+      "area": "Wishaw",
+      "city": "Wishaw", 
+      "postcode": "ML2"
+    },
+    {
+      "area": "Clydebank",
+      "city": "Clydebank",
+      "postcode": "G81"
+    },
+    {
+      "area": "Dunfermline",
+      "city": "Dunfermline",
+      "postcode": "KY11"
+    },
+    {
+      "area": "Bearsden",
+      "city": "Bearsden",
+      "postcode": "G61"
+    },
+    {
+      "area": "Dumfries",
+      "city": "Dumfries",
+      "postcode": "DG1"
+    },
+    {
+      "area": "Irvine",
+      "city": "Irvine",
+      "postcode": "KA12"
+    },
+    {
+      "area": "Arbroath",
+      "city": "Arbroath",
+      "postcode": "DD11"
+    },
+    {
+      "area": "Dunkeld",
+      "city": "Dunkeld",
+      "postcode": "PH8"
+    },
+    {
+      "area": "Aberfeldy",
+      "city": "Aberfeldy",
+      "postcode": "PH15"
+    },
+    {
+      "area": "Arrochar",
+      "city": "Arrochar",
+      "postcode": "G83"
+    },
+    {
+      "area": "Ardlui",
+      "city": "Ardlui",
+      "postcode": "G83"
+    },
+    {
+      "area": "Aboyne",
+      "city": "Aboyne",
+      "postcode": "AB34"
+    },
+    {
+      "area": "Balgay",
+      "city": "Dundee",
+      "postcode": "DD2"
+    },
+    {
+      "area": "Balgillo",
+      "city": "Dundee",
+      "postcode": "DD5"
+    },
+    {
+      "area": "Balgowan",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Ballumbie",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Barnhill",
+      "city": "Dundee",
+      "postcode": "DD5"
+    },
+    {
+      "area": "Baxter Park",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Blackness",
+      "city": "Dundee",
+      "postcode": "DD2"
+    },
+    {
+      "area": "Broughty Ferry",
+      "city": "Dundee",
+      "postcode": "DD5"
+    },
+    {
+      "area": "Camperdown",
+      "city": "Dundee",
+      "postcode": "DD2"
+    },
+    {
+      "area": "Charleston",
+      "city": "Dundee",
+      "postcode": "DD2"
+    },
+    {
+      "area": "City Centre",
+      "city": "Dundee",
+      "postcode": "DD1"
+    },
+    {
+      "area": "City Quay",
+      "city": "Dundee",
+      "postcode": "DD1"
+    },
+    {
+      "area": "Claverhouse",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Craigiebank",
+      "city": "Dundee",
+      "postcode": "DD2"
+    },
+    {
+      "area": "Douglas",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Downfield",
+      "city": "Dundee",
+      "postcode": "DD3"
+    },
+    {
+      "area": "Dundee Law",
+      "city": "Dundee",
+      "postcode": "DD3"
+    },
+    {
+      "area": "Fintry",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Hilltown",
+      "city": "Dundee",
+      "postcode": "DD3"
+    },
+    {
+      "area": "Kirkton",
+      "city": "Dundee",
+      "postcode": "DD3"
+    },
+    {
+      "area": "Law",
+      "city": "Dundee",
+      "postcode": "DD3"
+    },
+    {
+      "area": "Lochee",
+      "city": "Dundee",
+      "postcode": "DD2"
+    },
+    {
+      "area": "Logie",
+      "city": "Dundee",
+      "postcode": "DD2"
+    },
+    {
+      "area": "Menzieshill",
+      "city": "Dundee",
+      "postcode": "DD2"
+    },
+    {
+      "area": "Mid Craigie",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Mill o' Mains",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Ninewells",
+      "city": "Dundee",
+      "postcode": "DD2"
+    },
+    {
+      "area": "Pitkerro",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Riverside",
+      "city": "Dundee",
+      "postcode": "DD1"
+    },
+    {
+      "area": "St Marys",
+      "city": "Dundee",
+      "postcode": "DD3"
+    },
+    {
+      "area": "Stobswell",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Strathmartine",
+      "city": "Dundee",
+      "postcode": "DD3"
+    },
+    {
+      "area": "Trottick",
+      "city": "Dundee",
+      "postcode": "DD2"
+    },
+    {
+      "area": "West End",
+      "city": "Dundee",
+      "postcode": "DD1"
+    },
+    {
+      "area": "Whitfield",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Woodside",
+      "city": "Dundee",
+      "postcode": "DD4"
+    },
+    {
+      "area": "Dalneigh",
+      "city": "Inverness",
+      "postcode": "IV3"
+    },
+    {
+      "area": "Crown",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Culcabock",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Merkinch",
+      "city": "Inverness",
+      "postcode": "IV3"
+    },
+    {
+      "area": "Raigmore",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Hilton",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Culduthel",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Drakies",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Smithton",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Culloden",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Balloch",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Westhill",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Milton of Leys",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Inshes",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Kinmylies",
+      "city": "Inverness",
+      "postcode": "IV3"
+    },
+    {
+      "area": "Bught",
+      "city": "Inverness",
+      "postcode": "IV3"
+    },
+    {
+      "area": "Holm",
+      "city": "Inverness",
+      "postcode": "IV2"
+    },
+    {
+      "area": "Galashiels",
+      "city": "Galashiels",
+      "postcode": "TD1"
+    },
+    {
+      "area": "Hawick",
+      "city": "Hawick",
+      "postcode": "TD9"
+    },
+    {
+      "area": "Peebles",
+      "city": "Peebles",
+      "postcode": "EH45"
+    },
+    {
+      "area": "Selkirk",
+      "city": "Selkirk",
+      "postcode": "TD7"
+    },
+    {
+      "area": "Kelso",
+      "city": "Kelso",
+      "postcode": "TD5"
+    },
+    {
+      "area": "Jedburgh",
+      "city": "Jedburgh",
+      "postcode": "TD8"
+    },
+    {
+      "area": "Melrose",
+      "city": "Melrose",
+      "postcode": "TD6"
+    },
+    {
+      "area": "Eyemouth",
+      "city": "Eyemouth",
+      "postcode": "TD14"
+    },
+    {
+      "area": "Duns",
+      "city": "Duns",
+      "postcode": "TD11"
+    },
+    {
+      "area": "Coldstream",
+      "city": "Coldstream",
+      "postcode": "TD12"
+    },
+    {
+      "area": "Innerleithen",
+      "city": "Innerleithen",
+      "postcode": "EH44"
+    },
+    {
+      "area": "Earlston",
+      "city": "Earlston",
+      "postcode": "TD4"
+    },
+    {
+      "area": "Lauder",
+      "city": "Lauder",
+      "postcode": "TD2"
+    },
+    {
+      "area": "St Boswells",
+      "city": "St Boswells",
+      "postcode": "TD6"
+    },
+    {
+      "area": "Newtown St Boswells",
+      "city": "Newtown St Boswells",
+      "postcode": "TD6"
+    },
+    {
+      "area": "Chirnside",
+      "city": "Chirnside",
+      "postcode": "TD11"
+    },
+    {
+      "area": "Cockburnspath",
+      "city": "Cockburnspath",
+      "postcode": "TD13"
+    },
+    {
+      "area": "Greenlaw",
+      "city": "Greenlaw",
+      "postcode": "TD10"
+    },
+    {
+      "area": "West Linton",
+      "city": "West Linton",
+      "postcode": "EH46"
+    },
+    {
+      "area": "Coldingham",
+      "city": "Coldingham",
+      "postcode": "TD14"
+    },
+    {
+      "area": "Ayton",
+      "city": "Ayton",
+      "postcode": "TD14"
+    },
+    {
+      "area": "Burnmouth",
+      "city": "Burnmouth",
+      "postcode": "TD14"
+    },
+    {
+      "area": "Walkerburn",
+      "city": "Walkerburn",
+      "postcode": "EH43"
+    },
+    {
+      "area": "Reston",
+      "city": "Reston",
+      "postcode": "TD14"
+    },
+    {
+      "area": "Cardrona",
+      "city": "Cardrona",
+      "postcode": "EH45"
+    }
+  ]
+}
+      "
