@@ -1555,5 +1555,510 @@
       "city": "Cardrona",
       "postcode": "EH45 8NE"
     }
+     {
+      "area": "Ferguslie Park",
+      "city": "Paisley",
+      "postcode": "PA2 6QG"
+    },
+    {
+      "area": "Foxbar",
+      "city": "Paisley",
+      "postcode": "PA2 0AL"
+    },
+    {
+      "area": "Gallowhill",
+      "city": "Paisley",
+      "postcode": "PA3 4SF"
+    },
+    {
+      "area": "Glenburn",
+      "city": "Paisley",
+      "postcode": "PA2 8DZ"
+    },
+    {
+      "area": "Glenfield",
+      "city": "Paisley",
+      "postcode": "PA2 7SA"
+    },
+    {
+      "area": "Hunterhill",
+      "city": "Paisley",
+      "postcode": "PA2 6LE"
+    },
+    {
+      "area": "Lochfield",
+      "city": "Paisley",
+      "postcode": "PA2 0BG"
+    },
+    {
+      "area": "Dykebar",
+      "city": "Paisley",
+      "postcode": "PA2 7DE"
+    },
+    {
+      "area": "Ralston",
+      "city": "Paisley",
+      "postcode": "PA1 3BA"
+    },
+    {
+      "area": "Shortroods",
+      "city": "Paisley",
+      "postcode": "PA3 2DE"
+    },
+    {
+      "area": "Thornly Park",
+      "city": "Paisley",
+      "postcode": "PA2 7DH"
+    },
+    {
+      "area": "Castlehead",
+      "city": "Paisley",
+      "postcode": "PA2 6NA"
+    },
+    {
+      "area": "Brediland",
+      "city": "Paisley",
+      "postcode": "PA2 7UH"
+    },
+    {
+      "area": "Hawkhead",
+      "city": "Paisley",
+      "postcode": "PA2 7BG"
+    },
+    {
+      "area": "Millarston",
+      "city": "Paisley",
+      "postcode": "PA3 4HL"
+    },
+    {
+      "area": "Seedhill",
+      "city": "Paisley",
+      "postcode": "PA1 1RS"
+    },
+    {
+      "area": "Charleston",
+      "city": "Paisley",
+      "postcode": "PA2 6LX"
+    },
+    {
+      "area": "Whitehaugh",
+      "city": "Paisley",
+      "postcode": "PA1 3QR"
+    },
+    {
+      "area": "Meikleriggs",
+      "city": "Paisley",
+      "postcode": "PA2 8LS"
+    },
+    {
+      "area": "Calderwood",
+      "city": "East Kilbride",
+      "postcode": "G74 3AE"
+    },
+    {
+      "area": "St Leonards",
+      "city": "East Kilbride",
+      "postcode": "G74 2EX"
+    },
+    {
+      "area": "The Village",
+      "city": "East Kilbride",
+      "postcode": "G74 4JU"
+    },
+    {
+      "area": "Westwood",
+      "city": "East Kilbride",
+      "postcode": "G75 8SL"
+    },
+    {
+      "area": "Greenhills",
+      "city": "East Kilbride",
+      "postcode": "G75 8TG"
+    },
+    {
+      "area": "East Mains",
+      "city": "East Kilbride",
+      "postcode": "G74 4JP"
+    },
+    {
+      "area": "Hairmyres",
+      "city": "East Kilbride",
+      "postcode": "G75 8RG"
+    },
+    {
+      "area": "Lindsayfield",
+      "city": "East Kilbride",
+      "postcode": "G75 9JF"
+    },
+    {
+      "area": "Thorntonhall",
+      "city": "East Kilbride",
+      "postcode": "G74 5LA"
+    },
+    {
+      "area": "Mossneuk",
+      "city": "East Kilbride",
+      "postcode": "G75 8SH"
+    },
+    {
+      "area": "West Mains",
+      "city": "East Kilbride",
+      "postcode": "G74 1LQ"
+    },
+    {
+      "area": "Nerston",
+      "city": "East Kilbride",
+      "postcode": "G74 4QU"
+    },
+    {
+      "area": "Gardenhall",
+      "city": "East Kilbride",
+      "postcode": "G75 8XB"
+    },
+    {
+      "area": "Stewartfield",
+      "city": "East Kilbride",
+      "postcode": "G74 4NA"
+    },
+    {
+      "area": "Kelvin",
+      "city": "East Kilbride",
+      "postcode": "G75 0QF"
+    },
+    {
+      "area": "Newlandsmuir",
+      "city": "East Kilbride",
+      "postcode": "G75 8UT"
+    },
+    {
+      "area": "Kittochside",
+      "city": "East Kilbride",
+      "postcode": "G76 9HR"
+    },
+    {
+      "area": "Whitehills",
+      "city": "East Kilbride",
+      "postcode": "G75 8QZ"
+    },
+    {
+      "area": "Birniehill",
+      "city": "East Kilbride",
+      "postcode": "G75 0QG"
+    },
+    {
+      "area": "College Milton",
+      "city": "East Kilbride",
+      "postcode": "G74 5JP"
+    },
+    {
+      "area": "Peel Park",
+      "city": "East Kilbride",
+      "postcode": "G74 1LN"
+    },
+    {
+      "area": "South Lanarkshire Technology Park",
+      "city": "East Kilbride",
+      "postcode": "G75 0QD"
+    },
+    {
+      "area": "Dedridge",
+      "city": "Livingston",
+      "postcode": "EH54 6LB"
+    },
+    {
+      "area": "Craigshill",
+      "city": "Livingston",
+      "postcode": "EH54 5EQ"
+    },
+    {
+      "area": "Eliburn",
+      "city": "Livingston",
+      "postcode": "EH54 6TR"
+    },
+    {
+      "area": "Howden",
+      "city": "Livingston",
+      "postcode": "EH54 6AF"
+    },
+    {
+      "area": "Ladywell",
+      "city": "Livingston",
+      "postcode": "EH54 6AG"
+    },
+    {
+      "area": "Knightsridge",
+      "city": "Livingston",
+      "postcode": "EH54 8PT"
+    },
+    {
+      "area": "Murieston",
+      "city": "Livingston",
+      "postcode": "EH54 9HB"
+    },
+    {
+      "area": "Almondvale",
+      "city": "Livingston",
+      "postcode": "EH54 6QX"
+    },
+    {
+      "area": "Deans",
+      "city": "Livingston",
+      "postcode": "EH54 8BE"
+    },
+    {
+      "area": "Bellsquarry",
+      "city": "Livingston",
+      "postcode": "EH54 9HX"
+    },
+    {
+      "area": "Livingston Village",
+      "city": "Livingston",
+      "postcode": "EH54 7AZ"
+    },
+    {
+      "area": "Adambrae",
+      "city": "Livingston",
+      "postcode": "EH54 6LE"
+    },
+    {
+      "area": "Bankton",
+      "city": "Livingston",
+      "postcode": "EH54 9BU"
+    },
+    {
+      "area": "Craigengar",
+      "city": "Livingston",
+      "postcode": "EH54 5HH"
+    },
+    {
+      "area": "Deer Park",
+      "city": "Livingston",
+      "postcode": "EH54 8AH"
+    },
+    {
+      "area": "Kirkton",
+      "city": "Livingston",
+      "postcode": "EH54 7DJ"
+    },
+    {
+      "area": "Uphall Station",
+      "city": "Livingston",
+      "postcode": "EH54 5DB"
+    },
+    {
+      "area": "Fairhill",
+      "city": "Hamilton",
+      "postcode": "ML3 9UJ"
+    },
+    {
+      "area": "Hillhouse",
+      "city": "Hamilton",
+      "postcode": "ML3 9UL"
+    },
+    {
+      "area": "Burnbank",
+      "city": "Hamilton",
+      "postcode": "ML3 0NA"
+    },
+    {
+      "area": "Whitehill",
+      "city": "Hamilton",
+      "postcode": "ML3 0QX"
+    },
+    {
+      "area": "Eddlewood",
+      "city": "Hamilton",
+      "postcode": "ML3 7XB"
+    },
+    {
+      "area": "High Earnock",
+      "city": "Hamilton",
+      "postcode": "ML3 7DE"
+    },
+    {
+      "area": "Meikle Earnock",
+      "city": "Hamilton",
+      "postcode": "ML3 8QT"
+    },
+    {
+      "area": "Silvertonhill",
+      "city": "Hamilton",
+      "postcode": "ML3 6PB"
+    },
+    {
+      "area": "Low Waters",
+      "city": "Hamilton",
+      "postcode": "ML3 7QE"
+    },
+    {
+      "area": "Ferniegair",
+      "city": "Hamilton",
+      "postcode": "ML3 7LT"
+    },
+    {
+      "area": "Chantinghall",
+      "city": "Hamilton",
+      "postcode": "ML3 6JZ"
+    },
+    {
+      "area": "Little Earnock",
+      "city": "Hamilton",
+      "postcode": "ML3 9DU"
+    },
+    {
+      "area": "Laighstonehall",
+      "city": "Hamilton",
+      "postcode": "ML3 6LD"
+    },
+    {
+      "area": "Quarter",
+      "city": "Hamilton",
+      "postcode": "ML3 9DT"
+    },
+    {
+      "area": "Limekilnburn",
+      "city": "Hamilton",
+      "postcode": "ML3 8BZ"
+    },
+    {
+      "area": "Cadzow",
+      "city": "Hamilton",
+      "postcode": "ML3 6HH"
+    },
+    {
+      "area": "Allanshaw",
+      "city": "Hamilton",
+      "postcode": "ML3 0PD"
+    },
+    {
+      "area": "Earnock",
+      "city": "Hamilton",
+      "postcode": "ML3 8DA"
+    },
+    {
+      "area": "Torheads",
+      "city": "Hamilton",
+      "postcode": "ML3 7RF"
+    },
+    {
+      "area": "Woodhead",
+      "city": "Hamilton",
+      "postcode": "ML3 7QZ"
+    },
+    {
+      "area": "Barncluith",
+      "city": "Hamilton",
+      "postcode": "ML3 0RT"
+    },
+    {
+      "area": "Carbrain",
+      "city": "Cumbernauld",
+      "postcode": "G67 2HN"
+    },
+    {
+      "area": "Kildrum",
+      "city": "Cumbernauld",
+      "postcode": "G67 2DN"
+    },
+    {
+      "area": "Seafar",
+      "city": "Cumbernauld",
+      "postcode": "G67 1QX"
+    },
+    {
+      "area": "Greenfaulds",
+      "city": "Cumbernauld",
+      "postcode": "G68 9HG"
+    },
+    {
+      "area": "Condorrat",
+      "city": "Cumbernauld",
+      "postcode": "G67 4EX"
+    },
+    {
+      "area": "Westfield",
+      "city": "Cumbernauld",
+      "postcode": "G68 9EG"
+    },
+    {
+      "area": "Balloch",
+      "city": "Cumbernauld",
+      "postcode": "G68 0LS"
+    },
+    {
+      "area": "Westerwood",
+      "city": "Cumbernauld",
+      "postcode": "G68 0EW"
+    },
+    {
+      "area": "Blackwood",
+      "city": "Cumbernauld",
+      "postcode": "G68 9LE"
+    },
+    {
+      "area": "Craigmarloch",
+      "city": "Cumbernauld",
+      "postcode": "G68 0LS"
+    },
+    {
+      "area": "Smithstone",
+      "city": "Cumbernauld",
+      "postcode": "G68 9HG"
+    },
+    {
+      "area": "Dullatur",
+      "city": "Cumbernauld",
+      "postcode": "G68 0AB"
+    },
+    {
+      "area": "Dysart",
+      "city": "Kirkcaldy",
+      "postcode": "KY1 2LL"
+    },
+    {
+      "area": "Gallatown",
+      "city": "Kirkcaldy",
+      "postcode": "KY1 3ED"
+    },
+    {
+      "area": "Hayfield",
+      "city": "Kirkcaldy",
+      "postcode": "KY2 5AH"
+    },
+    {
+      "area": "Linktown",
+      "city": "Kirkcaldy",
+      "postcode": "KY1 1PF"
+    },
+    {
+      "area": "Pathhead",
+      "city": "Kirkcaldy",
+      "postcode": "KY1 3EB"
+    },
+    {
+      "area": "Raith",
+      "city": "Kirkcaldy",
+      "postcode": "KY2 5UB"
+    },
+    {
+      "area": "Sinclairtown",
+      "city": "Kirkcaldy",
+      "postcode": "KY1 2NA"
+    },
+    {
+      "area": "Smeaton",
+      "city": "Kirkcaldy",
+      "postcode": "KY1 2DF"
+    },
+    {
+      "area": "Templehall",
+      "city": "Kirkcaldy",
+      "postcode": "KY2 6BT"
+    },
+    {
+      "area": "Torbain",
+      "city": "Kirkcaldy",
+      "postcode": "KY2 5LP"
+    }
   ]
 }
